@@ -1,1 +1,2 @@
 This is my first remote repo.
+I have now added a new line in this clone.
